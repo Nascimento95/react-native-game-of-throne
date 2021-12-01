@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "game-of-throne",
+    "slug": "game-of-throne",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "game-of-throne"
+}
